@@ -5,6 +5,7 @@ public class Calculator {
     {
         Scanner sc=new Scanner(System.in);
         Calculation obj=new Calculation();
+
         System.out.println("Enter two number");
         obj.a=sc.nextInt();
         obj.b=sc.nextInt();
