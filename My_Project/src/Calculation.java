@@ -2,6 +2,7 @@ import java.awt.desktop.SystemEventListener;
 
 public class Calculation {
     int a; //Variable
+
     int b; //Variable
     void sum(int num1,int num2)
     {
